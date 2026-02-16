@@ -7,11 +7,8 @@ import Type from "./Type";
 import zalo from "../../Assets/zalo.svg";
 import {
 	AiFillGithub,
-	AiOutlineTwitter,
-	AiFillInstagram,
 	AiFillPhone,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
 
 function Home() {
 	return (
