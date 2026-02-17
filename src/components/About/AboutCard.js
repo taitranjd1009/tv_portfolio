@@ -11,15 +11,13 @@ function AboutCard() {
 						Hi everyone! I’m{" "}
 						<span className="purple">Phan Thi Tuong Vi</span> from{" "}
 						<span className="purple">
-							Binh Tan District, Ho Chi Minh City, Vietnam
+							Binh Tan District, Ho Chi Minh City, Vietnam.
 						</span>
-						.
-						<br />
-						I have graduated from the {" "}
+						{" "}I have graduated from the {" "}
 						<span className="purple">
-						University of Information Technology.
-						</span>
-						<br />and have professional experience working at{" "}
+						University of Information Technology
+						</span>{" "}
+						and have professional experience working at{" "}
 						<span className="purple">
 						CloudGO Co., Ltd.
 						</span>{" "}
